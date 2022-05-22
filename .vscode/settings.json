@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./lib/db-accessor",
+        "./lib/helpers",
+        "./lib"
+    ]
+}
